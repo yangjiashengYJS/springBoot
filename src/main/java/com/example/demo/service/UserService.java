@@ -9,4 +9,5 @@ public interface UserService {
 
     public List<User> queryList(Map<String, String> map);
 
+
 }
